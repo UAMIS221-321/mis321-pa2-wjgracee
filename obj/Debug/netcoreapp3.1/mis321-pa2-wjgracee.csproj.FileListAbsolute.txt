@@ -1,0 +1,11 @@
+C:\Users\willg\Desktop\Source (code)\Repos\MIS-Advance\mis321-pa2-wjgracee\bin\Debug\netcoreapp3.1\mis321-pa2-wjgracee.exe
+C:\Users\willg\Desktop\Source (code)\Repos\MIS-Advance\mis321-pa2-wjgracee\bin\Debug\netcoreapp3.1\mis321-pa2-wjgracee.deps.json
+C:\Users\willg\Desktop\Source (code)\Repos\MIS-Advance\mis321-pa2-wjgracee\bin\Debug\netcoreapp3.1\mis321-pa2-wjgracee.runtimeconfig.json
+C:\Users\willg\Desktop\Source (code)\Repos\MIS-Advance\mis321-pa2-wjgracee\bin\Debug\netcoreapp3.1\mis321-pa2-wjgracee.runtimeconfig.dev.json
+C:\Users\willg\Desktop\Source (code)\Repos\MIS-Advance\mis321-pa2-wjgracee\bin\Debug\netcoreapp3.1\mis321-pa2-wjgracee.dll
+C:\Users\willg\Desktop\Source (code)\Repos\MIS-Advance\mis321-pa2-wjgracee\bin\Debug\netcoreapp3.1\mis321-pa2-wjgracee.pdb
+C:\Users\willg\Desktop\Source (code)\Repos\MIS-Advance\mis321-pa2-wjgracee\obj\Debug\netcoreapp3.1\mis321-pa2-wjgracee.csprojAssemblyReference.cache
+C:\Users\willg\Desktop\Source (code)\Repos\MIS-Advance\mis321-pa2-wjgracee\obj\Debug\netcoreapp3.1\mis321-pa2-wjgracee.AssemblyInfoInputs.cache
+C:\Users\willg\Desktop\Source (code)\Repos\MIS-Advance\mis321-pa2-wjgracee\obj\Debug\netcoreapp3.1\mis321-pa2-wjgracee.AssemblyInfo.cs
+C:\Users\willg\Desktop\Source (code)\Repos\MIS-Advance\mis321-pa2-wjgracee\obj\Debug\netcoreapp3.1\mis321-pa2-wjgracee.dll
+C:\Users\willg\Desktop\Source (code)\Repos\MIS-Advance\mis321-pa2-wjgracee\obj\Debug\netcoreapp3.1\mis321-pa2-wjgracee.pdb
