@@ -9,5 +9,6 @@ namespace mis321_pa2_wjgracee
         {
             System.Console.WriteLine("Look over there!! (Distraction)");
         }
+
     }
 }
